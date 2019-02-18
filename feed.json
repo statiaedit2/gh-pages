@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ProStories",
+    "description": "",
+    "home_page_url": "file://C:\Users\Vitalie\Documents\Publii\gh-pages",
+    "feed_url": "file://C:\Users\Vitalie\Documents\Publii\gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "H.S."
+    },
+    "items": [
+        {
+            "id": "file://C:\Users\Vitalie\Documents\Publii\gh-pages/my-first-post-here/index.html",
+            "url": "file://C:\Users\Vitalie\Documents\Publii\gh-pages/my-first-post-here/index.html",
+            "title": "My  first Post Here",
+            "summary": " My first Post Here My first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post HereMy first Post Here My&hellip;",
+            "content_html": "<p><img class=\"post__image\" src=\"file://C:\\Users\\Vitalie\\Documents\\Publii\\gh-pages/media/posts/1/banner-chapter-1.jpg\" alt=\"\" width=\"755\" height=\"323\"></p>\n<p><strong>My  first Post Here My  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post Here</strong></p>\n<blockquote>\n<p class=\"align-left\"><strong>My  first Post Here My  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post Here</strong></p>\n</blockquote>\n<p><strong>My  first Post Here My  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post HereMy  first Post Here</strong></p>",
+            "author": {
+                "name": "H.S."
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-18T17:06:07+02:00",
+            "date_modified": "2019-02-18T17:06:07+02:00"
+        }
+    ]
+}
